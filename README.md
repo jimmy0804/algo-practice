@@ -13,5 +13,6 @@ Keeps track of my LeetCode practice history
 - (Easy) [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - 09/04/2020
 
 #### Medium Questions
+- (Medium) [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) - 09/04/2020
 
 #### Hard Questions
