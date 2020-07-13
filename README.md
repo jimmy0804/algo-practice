@@ -11,7 +11,9 @@ Keeps track of my LeetCode practice history
 - [100. Same Tree](https://leetcode.com/problems/same-tree/) - 11/7/2020
 
 #### Medium Questions
-- (Medium) [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) - 09/04/2020
+- [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) - 09/04/2020
 - [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/) -  11/07/2020
+
+- [78. Subsets](https://leetcode.com/problems/subsets/) - 13/07/2020
 
 #### Hard Questions
