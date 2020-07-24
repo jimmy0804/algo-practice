@@ -14,6 +14,7 @@ Number | Title | Solution | Difficulty | Note
 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Medium/78-subsets.swift) | `Medium` | -
 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Medium/19-remove-nth-node-from-end-of-list.swift) | `Medium` | -
 9 |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Easy/palindrome-number.swift) | `Easy` |-
+3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Medium/3-longest-substring-without-repeating-characters.swift) | `Medium` | -
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Medium/2-add-two-numbers.swift) | `Medium` | -
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Easy/1-two-sum.swift) | `Easy` | -
 
