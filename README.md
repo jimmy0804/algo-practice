@@ -1,7 +1,7 @@
-# leetcode-practice
-This project keeps track of my LeetCode practice history
+# Algo Practice
+This project keeps track of my algo practice history
 
-### History
+### Leetcode Practice History
 
 Number | Title | Solution | Difficulty | Note
 --- | --- | --- | --- | ---
