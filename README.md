@@ -13,7 +13,7 @@ Number | Title | Solution | Difficulty | Note
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Medium/113-path-sum-2.swift) | `Medium` | -
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Medium/101-symmetric-tree.swift) | `Medium` | -
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Easy/100-same-tree.swift) | `Easy` | -
-78 | [Subsets](https://leetcode.com/problems/subsets/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Medium/78-subsets.swift) | `Medium` | -
+78 | [Subsets](https://leetcode.com/problems/subsets/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Medium/78-subsets.swift) | `Medium` | Backtracking
 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Medium/46-permutations.swift) | `Medium` | [Backtracking question general approach](https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning))
 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Medium/19-remove-nth-node-from-end-of-list.swift) | `Medium` | -
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Easy/14-longest-common-prefix.swift) | `Easy` | review needed
