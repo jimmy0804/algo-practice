@@ -17,7 +17,8 @@ Number | Title | Solution | Difficulty | Note
 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Medium/46-permutations.swift) | `Medium` | -
 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Medium/19-remove-nth-node-from-end-of-list.swift) | `Medium` | -
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Easy/14-longest-common-prefix.swift) | `Easy` | review needed
-9 |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Easy/palindrome-number.swift) | `Easy` |-
+13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Easy/13-roman-to-Integer.swift) | `Easy` | -
+9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Easy/palindrome-number.swift) | `Easy` |-
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Medium/3-longest-substring-without-repeating-characters.swift) | `Medium` | -
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Medium/2-add-two-numbers.swift) | `Medium` | -
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Easy/1-two-sum.swift) | `Easy` | -
