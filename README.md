@@ -25,3 +25,8 @@ Number | Title | Solution | Difficulty | Note
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/Easy/1-two-sum.swift) | `Easy` | -
 
 
+### Sorting Algorithms
+
+Title | Solution | Note
+--- | --- | ---
+Merge Sort | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/misc/merge-sort.swift) | `Top down approach`
