@@ -28,6 +28,7 @@ Number | Title | Solution | Difficulty | Note
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Easy/13-roman-to-Integer.swift) | `Easy` | -
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/Medium/11-container-with-most-water.swift) | `Medium` | -
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Easy/palindrome-number.swift) | `Easy` |-
+5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/Medium/5-longest-palindromice-substring/index.py) | `Medium` | -
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Medium/3-longest-substring-without-repeating-characters.swift) | `Medium` | -
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Medium/2-add-two-numbers.swift) | `Medium` | -
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Easy/1-two-sum.swift) | `Easy` | -
