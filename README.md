@@ -37,3 +37,9 @@ Number | Title | Solution | Difficulty | Note
 Title | Solution | Note
 --- | --- | ---
 Merge Sort | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/misc/merge-sort.swift) | `Top down approach`
+
+
+### Learning Resources
+
+#### Binary Search
+[Powerful Ultimate Binary Search Template. Solved many problems](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
