@@ -13,6 +13,7 @@ Number | Title | Solution | Difficulty | Note
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/Easy/278-first-bad-version/main.py) | `Easy`| -
 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Easy/257-binary-tree-paths.swift) | `Easy` | -
 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Easy/235-lowest-common-ancestor-of-a-binary-search-tree.swift) | `Easy` | -
+162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python]() | `Medium` | `Revisit needed`
 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Easy/155-min-stack.swift) | `Easy` | -
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Medium/113-path-sum-2.swift) | `Medium` | -
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Medium/101-symmetric-tree.swift) | `Medium` | -
