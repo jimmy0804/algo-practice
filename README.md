@@ -13,7 +13,7 @@ Number | Title | Solution | Difficulty | Note
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/Easy/278-first-bad-version/main.py) | `Easy`| -
 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Easy/257-binary-tree-paths.swift) | `Easy` | -
 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Easy/235-lowest-common-ancestor-of-a-binary-search-tree.swift) | `Easy` | -
-162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python]() | `Medium` | `Revisit needed`
+162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/Medium/162-find-peak-element/main.py) | `Medium` | `Review needed`
 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Easy/155-min-stack.swift) | `Easy` | -
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Medium/113-path-sum-2.swift) | `Medium` | -
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Medium/101-symmetric-tree.swift) | `Medium` | -
@@ -29,7 +29,7 @@ Number | Title | Solution | Difficulty | Note
 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/Medium/18-4-sum.swift) | `Medium` | -
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/Medium/17-letter-combinations-of-a-phone-number.swift) | `Medium` | -
 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/Medium/15-3-sum.swift) | `medium` | -
-14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Easy/14-longest-common-prefix.swift) | `Easy` | review needed
+14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Easy/14-longest-common-prefix.swift) | `Easy` | `Review needed`
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Easy/13-roman-to-Integer.swift) | `Easy` | -
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/Medium/11-container-with-most-water.swift) | `Medium` | -
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/Easy/palindrome-number.swift) | `Easy` |-
