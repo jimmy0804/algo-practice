@@ -55,3 +55,6 @@ Merge Sort | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/
 
 #### Binary Search
 [Powerful Ultimate Binary Search Template. Solved many problems](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
+
+### Cracking the code interview
+[https://github.com/ahujaraman/cracking-the-coding-interview](https://github.com/ahujaraman/cracking-the-coding-interview)
