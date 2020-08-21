@@ -13,10 +13,11 @@ Number | Title | Solution | Difficulty | Note
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/278-first-bad-version/main.py) | `Easy`| -
 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/257-binary-tree-paths.swift) | `Easy` | -
 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/235-lowest-common-ancestor-of-a-binary-search-tree.swift) | `Easy` | -
-171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/171-excel-sheet-column-number/main.py) | `easy` | -
+171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/171-excel-sheet-column-number/main.py) | `Easy` | -
+169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/169-majority-element/main.py) | `Easy` | -
 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/162-find-peak-element/main.py) | `Medium` | `Review needed`
 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/155-min-stack.swift) | `Easy` | -
-125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/125-valid-palindrome/main.py) | `easy` | -
+125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/125-valid-palindrome/main.py) | `Easy` | -
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/113-path-sum-2.swift) | `Medium` | -
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/101-symmetric-tree.swift) | `Medium` | -
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/100-same-tree.swift) | `Easy` | -
