@@ -41,7 +41,7 @@ Number | Title | Solution | Difficulty | Note
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/palindrome-number.swift) | `Easy` |-
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/5-longest-palindromice-substring/main.py) | `Medium` | -
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/3-longest-substring-without-repeating-characters.swift) | `Medium` | -
-2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/2-add-two-numbers.swift) | `Medium` | -
+2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/2-add-two-numbers/main.swift) [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/2-add-two-numbers/main.py) | `Medium` | -
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/1-two-sum.swift) | `Easy` | -
 
 
