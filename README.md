@@ -10,6 +10,7 @@ Number | Title | Solution | Difficulty | Note
 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/662-maximum-width-of-binary-tree.swift) | `Medium` | -
 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/437-path-sum-III.swift) | `Medium` | -
 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/435-non-overlapping-intervals/435-non-overlapping-intervals.py) | `Medium` | -
+409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/409-longest-palindrome/main.py) | `Easy` | -
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/374-guess-number-higher-or-lower/main.py) | `Easy` | -
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/278-first-bad-version/main.py) | `Easy`| -
 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/257-binary-tree-paths.swift) | `Easy` | -
