@@ -19,6 +19,7 @@ Number | Title | Solution | Difficulty | Note
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/169-majority-element/main.py) | `Easy` | -
 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/162-find-peak-element/main.py) | `Medium` | `Review needed`
 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/155-min-stack.swift) | `Easy` | -
+128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/hard/128-longest-consecutive-sequence/main.py) | `Hard` | -
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/125-valid-palindrome/main.py) | `Easy` | -
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/113-path-sum-2.swift) | `Medium` | -
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/101-symmetric-tree.swift) | `Medium` | -
