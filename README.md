@@ -49,11 +49,12 @@ Number | Title | Solution | Difficulty | Note
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/1-two-sum.swift) | `Easy` | -
 
 
-### Sorting Algorithms
+### Misc
 
 Title | Solution | Note
 --- | --- | ---
 Merge Sort | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/misc/merge-sort.swift) | `Top down approach`
+Trie | [Python](https://github.com/jimmy0804/algo-practice/blob/master/misc/trie.py) | `Dictionary`
 
 
 ### Learning Resources
