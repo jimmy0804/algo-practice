@@ -9,7 +9,7 @@ Number | Title | Solution | Difficulty | Note
 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/905-sort-array-by-parity/main.py) | `Easy` | -
 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/677-map-sum-pairs/main.py) | `Medium` | Trie
 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/662-maximum-width-of-binary-tree.swift) | `Medium` | -
-648 | [Replace Words](https://leetcode.com/problems/replace-words/) | (Python)[https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/648-replace-words/main.py] | `Medium` | Trie
+648 | [Replace Words](https://leetcode.com/problems/replace-words/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/648-replace-words/main.py) | `Medium` | Trie
 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/437-path-sum-III.swift) | `Medium` | -
 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/435-non-overlapping-intervals/435-non-overlapping-intervals.py) | `Medium` | -
 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/409-longest-palindrome/main.py) | `Easy` | -
