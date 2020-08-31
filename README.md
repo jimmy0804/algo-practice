@@ -66,5 +66,8 @@ Trie | [Python](https://github.com/jimmy0804/algo-practice/blob/master/misc/trie
 #### Binary Search
 [Powerful Ultimate Binary Search Template. Solved many problems](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
 
+#### Graph
+[Graph For Beginners Problems or Pattern or Sample Solutions](https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
+
 ### Cracking the coding interview
 [https://github.com/ahujaraman/cracking-the-coding-interview](https://github.com/ahujaraman/cracking-the-coding-interview)
