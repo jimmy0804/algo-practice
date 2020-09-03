@@ -6,6 +6,7 @@ This project keeps track of my algo practice history
 Number | Title | Solution | Difficulty | Note
 --- | --- | --- | --- | ---
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/defanging-an-ip-address.swift) | `Easy` | -
+937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/937-reorder-data-in-log-files/main.py) | `Easy` | `Amazon`
 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/905-sort-array-by-parity/main.py) | `Easy` | -
 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/677-map-sum-pairs/main.py) | `Medium` | Trie
 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/662-maximum-width-of-binary-tree.swift) | `Medium` | -
@@ -49,8 +50,8 @@ Number | Title | Solution | Difficulty | Note
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/palindrome-number.swift) | `Easy` |-
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/5-longest-palindromice-substring/main.py) | `Medium` | -
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/3-longest-substring-without-repeating-characters.swift) | `Medium` | -
-2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/2-add-two-numbers/main.swift) [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/2-add-two-numbers/main.py) | `Medium` | -
-1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/1-two-sum.swift) | `Easy` | -
+2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/2-add-two-numbers/main.swift) [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/2-add-two-numbers/main.py) | `Medium` | `Amazon`
+1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/1-two-sum.swift) | `Easy` | `Amazon`
 
 
 ### Misc
