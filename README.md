@@ -11,6 +11,7 @@ Number | Title | Solution | Difficulty | Note
 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/677-map-sum-pairs/main.py) | `Medium` | Trie
 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/662-maximum-width-of-binary-tree.swift) | `Medium` | -
 648 | [Replace Words](https://leetcode.com/problems/replace-words/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/648-replace-words/main.py) | `Medium` | Trie
+647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/647-palindromic-substrings/main.py) | `Medium` | -
 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/437-path-sum-III.swift) | `Medium` | -
 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/435-non-overlapping-intervals/435-non-overlapping-intervals.py) | `Medium` | -
 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/409-longest-palindrome/main.py) | `Easy` | -
@@ -24,6 +25,7 @@ Number | Title | Solution | Difficulty | Note
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/169-majority-element/main.py) | `Easy` | -
 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/162-find-peak-element/main.py) | `Medium` | `Review needed`
 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/155-min-stack.swift) | `Easy` | -
+131 | [Palindorm Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/131-palindrome-partitioning/main.py) | `Medium` | `Backtracking`
 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/129-sum-root-to-leaf-numbers/main.py) | `Medium` | Tree
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/hard/128-longest-consecutive-sequence/main.py) | `Hard` | -
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/125-valid-palindrome/main.py) | `Easy` | -
