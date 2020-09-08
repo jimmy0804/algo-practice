@@ -5,6 +5,7 @@ This project keeps track of my algo practice history
 
 Number | Title | Solution | Difficulty | Note
 --- | --- | --- | --- | ---
+1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/1167-minimum-cost-to-connect-sticks/main.py) | `Medium` | `Greedy`
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/defanging-an-ip-address.swift) | `Easy` | -
 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/937-reorder-data-in-log-files/main.py) | `Easy` | `Amazon`
 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/905-sort-array-by-parity/main.py) | `Easy` | -
