@@ -5,6 +5,7 @@ This project keeps track of my algo practice history
 
 Number | Title | Solution | Difficulty | Note
 --- | --- | --- | --- | ---
+1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/1167-minimum-cost-to-connect-sticks/main.py) | `Medium` | `Greedy`
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/defanging-an-ip-address.swift) | `Easy` | -
 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/937-reorder-data-in-log-files/main.py) | `Easy` | `Amazon`
 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/905-sort-array-by-parity/main.py) | `Easy` | -
@@ -26,7 +27,7 @@ Number | Title | Solution | Difficulty | Note
 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/162-find-peak-element/main.py) | `Medium` | `Review needed`
 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/155-min-stack.swift) | `Easy` | -
 131 | [Palindorm Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/131-palindrome-partitioning/main.py) | `Medium` | `Backtracking`
-129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/129-sum-root-to-leaf-numbers/main.py) | `Medium` | Tree
+129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/129-sum-root-to-leaf-numbers/main.py) [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/129-sum-root-to-leaf-numbers/main.swift) | `Medium` | Tree
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/hard/128-longest-consecutive-sequence/main.py) | `Hard` | -
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/125-valid-palindrome/main.py) | `Easy` | -
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/113-path-sum-2.swift) | `Medium` | -
@@ -36,6 +37,7 @@ Number | Title | Solution | Difficulty | Note
 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/67-add-binary/main.py) | `Easy` | -
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/58-length-of-last-word/main.py) | `Easy` | -
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/53-maxiumu-subarray.swift) | `Easy` | -
+49 | [Group Anagram](https://leetcode.com/problems/group-anagrams/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/49-group-anagrams/main.swift) [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/49-group-anagrams/main.py) | `Medium` | -
 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/48-rotate-image/main.py) | `Medium` | -
 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/46-permutations.swift) | `Medium` | [Backtracking question general approach](https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning))
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/39-combination-sum.swift) | `Medium` | Backtracking
