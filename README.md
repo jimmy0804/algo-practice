@@ -7,6 +7,7 @@ Number | Title | Solution | Difficulty | Note
 --- | --- | --- | --- | ---
 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/1167-minimum-cost-to-connect-sticks/main.py) | `Medium` | `Greedy`
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/defanging-an-ip-address.swift) | `Easy` | -
+983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/983-minimum-cost-to-tickets/main.py) | `Medium` | 
 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/937-reorder-data-in-log-files/main.py) | `Easy` | `Amazon`
 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/905-sort-array-by-parity/main.py) | `Easy` | -
 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/677-map-sum-pairs/main.py) | `Medium` | Trie
@@ -20,7 +21,9 @@ Number | Title | Solution | Difficulty | Note
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/374-guess-number-higher-or-lower/main.py) | `Easy` | -
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/278-first-bad-version/main.py) | `Easy`| -
 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/257-binary-tree-paths.swift) | `Easy` | -
+253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/253-meeting-room-2/main.py) | `Medium` | -
 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/235-lowest-common-ancestor-of-a-binary-search-tree.swift) | `Easy` | -
+210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/210-course-schedule-2/main.py) | `Medium` | `Topological Sort`
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/200-number-of-islands/main.py) | `Medium` | -
 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/171-excel-sheet-column-number/main.py) | `Easy` | -
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/169-majority-element/main.py) | `Easy` | -
