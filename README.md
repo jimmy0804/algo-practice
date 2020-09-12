@@ -38,6 +38,7 @@ Number | Title | Solution | Difficulty | Note
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/100-same-tree.swift) | `Easy` | -
 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/78-subsets.swift) | `Medium` | Backtracking
 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/67-add-binary/main.py) | `Easy` | -
+64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/64-minimum-path-sum/main.py) | `Medium` | -
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/58-length-of-last-word/main.py) | `Easy` | -
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/53-maxiumu-subarray.swift) | `Easy` | -
 49 | [Group Anagram](https://leetcode.com/problems/group-anagrams/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/49-group-anagrams/main.swift) [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/49-group-anagrams/main.py) | `Medium` | -
