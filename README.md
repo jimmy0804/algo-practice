@@ -13,8 +13,10 @@ Number | Title | Solution | Difficulty | Note
 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/905-sort-array-by-parity/main.py) | `Easy` | -
 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/677-map-sum-pairs/main.py) | `Medium` | Trie
 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/662-maximum-width-of-binary-tree.swift) | `Medium` | -
+657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/657-robot-return-to-origin/main.swift) | `Easy` | `
 648 | [Replace Words](https://leetcode.com/problems/replace-words/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/648-replace-words/main.py) | `Medium` | Trie
 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/647-palindromic-substrings/main.py) | `Medium` | -
+560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/560-subarray-sum-equals-k/main.swift) | `Medium` | -
 510 | [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/510-inorder-successor-in-bst-2/main.swift) | `Medium` | -
 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/437-path-sum-III.swift) | `Medium` | -
 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/medium/435-non-overlapping-intervals/435-non-overlapping-intervals.py) | `Medium` | -
@@ -39,6 +41,7 @@ Number | Title | Solution | Difficulty | Note
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/hard/128-longest-consecutive-sequence/main.py) | `Hard` | -
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/125-valid-palindrome/main.py) | `Easy` | -
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/113-path-sum-2.swift) | `Medium` | -
+110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/leetcode/easy/110-balanced-binary-tree/main.swift) | `Easy` | -
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/101-symmetric-tree.swift) | `Medium` | -
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/easy/100-same-tree.swift) | `Easy` | -
 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/leetcode/medium/78-subsets.swift) | `Medium` | Backtracking
@@ -75,7 +78,7 @@ Title | Solution | Note
 --- | --- | ---
 Merge Sort | [Swift](https://github.com/jimmy0804/leetcode-practice/blob/master/misc/merge-sort.swift) | `Top down approach`
 Trie | [Python](https://github.com/jimmy0804/algo-practice/blob/master/misc/trie.py) | `Dictionary`
-
+Heap | [Swift](https://github.com/jimmy0804/algo-practice/blob/master/misc/heap.swift) | -
 
 ### Learning Resources
 
